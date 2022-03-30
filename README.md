@@ -1,6 +1,9 @@
 # pomodoro
 
-A new Flutter project.
+Projeto Flutter.
+
+![app_web_pomodoro](https://user-images.githubusercontent.com/93667749/160836024-8284aa5e-7995-4a02-b9db-ab92a3e6ca83.png)
+
 
 ## Getting Started
 
